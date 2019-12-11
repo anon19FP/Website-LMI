@@ -670,6 +670,22 @@ p.cta-sub-title {
     border: 0px;
 }
 }
+.table_style{
+    border-color: #cdcdcd;
+    width: 100%;
+}
+.imagen_2{
+    width: 150px;
+}
+.centrar{
+    padding-right: 75px;
+}
+.centrar2{
+    padding-right: 30px;
+}
+.centrar3{
+    padding-right: 5rem;
+}
 /**************************************
 form element
 **************************************/
