@@ -700,6 +700,16 @@ p.cta-sub-title {
     margin-left: 29%;
     margin-top: 20px;
 }
+
+img.imagen_3{
+    height: 150px;
+    width: 150px;
+}
+
+img.nada{
+    height: 150px;
+    width: 150px;
+}
 /**************************************
 form element
 **************************************/
